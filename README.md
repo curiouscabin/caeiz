@@ -1,9 +1,5 @@
-# caeiz
+# Align: Free Landing Page Template from Uisual
 
-## This domain is for sale!
+![Align Preview](https://res.cloudinary.com/uisual/image/upload/assets/screenshots/align.png)
 
-[Contact me](https://forms.gle/XZJur9i4LoTeqpFM6) for more details
-
----
-
-![Domain is for sale](pawel-czerwinski--0xCCPIbl3M-unsplash.jpg)
+Align is a free landing page template from Uisual. Visit [Uisual](https://uisual.com) for more free templates.
